@@ -43,9 +43,3 @@ Alert Generation
 ↓  
 GUI Status Display
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
